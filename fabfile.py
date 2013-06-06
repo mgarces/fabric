@@ -3,7 +3,7 @@ __author__ = 'marco.garces'
 from fabric.api import *
 
 #config variables
-hostsHome = "~/SysAdmin/fabric/hosts'"
+hostsHome = '/Users/marco.garces/SysAdmin/fabric/hosts'
 userNameDefault = "mgarces"
 
 #configuring which hosts to operate. Full list
