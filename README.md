@@ -13,4 +13,12 @@ alias f="fab --fabfile=/Users/marco.garces/SysAdmin/fabric/fabfile.py --skip-bad
 </code>
 
 
-this way
+suggestions
+===========
+
+This is a work in progress, and any help or suggestion is welcomed.
+
+If you are a sysadmin you can tell me in what cases you use fabric to automate your work.
+
+
+mgarces [at] sysadmin [dot] pt
